@@ -1,0 +1,32 @@
+@media screen and (max-width:700px){
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .btn {
+        margin-top: 10px;
+        width: 210px;
+        
+    }
+
+    .modal {
+        margin-top: 40px;
+        height: 120%;
+    }
+
+    .video {
+        height: 80%;
+        width: 100%;
+
+    }
+}
+
+@media escreen and (min-width:1000px){
+    .description{
+        width: 50%;
+    }
+    
+    
+
+}
